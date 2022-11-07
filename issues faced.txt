@@ -1,0 +1,9 @@
+compiler cors proxy - fixed using async await
+multiple key input
+initialize editor on new user joining
+
+canvas frontend
+canvas slow
+canvas eraser
+cursor tip writing
+
